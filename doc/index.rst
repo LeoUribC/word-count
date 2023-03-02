@@ -15,4 +15,4 @@ word-count
    usage.rst
    credit.rst
    exercises.rst
-   feature-a.md
+   feature-a.rst
